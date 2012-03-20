@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<view xmlns:android="http://schemas.android.com/apk/res/android"
+	class="com.sampleapp.MainActivity$iRelativeLayout" android:orientation="vertical"
+	android:layout_width="fill_parent" android:layout_height="fill_parent"
+	android:background="#C5CCD4FF">
+	
+	<LinearLayout android:id="@+id/TabLayout_One"
+		android:layout_width="fill_parent" android:layout_height="fill_parent"
+		android:layout_above="@+id/Tabs">
+	</LinearLayout>
+
+	<LinearLayout android:id="@+id/TabLayout_Two"
+		android:layout_width="fill_parent" android:layout_height="fill_parent"
+		android:layout_above="@+id/Tabs">
+	</LinearLayout>
+	<LinearLayout android:id="@+id/TabLayout_Three"
+		android:layout_width="fill_parent" android:layout_height="fill_parent"
+		android:layout_above="@+id/Tabs">
+	</LinearLayout>
+	<LinearLayout android:id="@+id/TabLayout_Four"
+		android:layout_width="fill_parent" android:layout_height="fill_parent"
+		android:layout_above="@+id/Tabs">
+	</LinearLayout>
+	<view class="com.sampleapp.MainActivity$iTab" android:id="@+id/Tabs"
+		android:layout_width="fill_parent" android:layout_height="49px"
+		android:layout_alignParentBottom="true" />
+</view>

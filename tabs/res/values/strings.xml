@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hello">Hello World, TabsDemoActivity!</string>
+    <string name="app_name">Tabs</string>
+    <string name="flickr">Flickr is an image and video hosting website, web services suite, and online community platform. In addition to being a popular website for users to share personal photographs, the service is widely used by bloggers as a photo repository. As of October 2009, it claims to host more than 4 billion images.</string>
+    <string name="ebay">eBay Inc. is an American Internet company that manages eBay.com, an online auction and shopping website in which people and businesses buy and sell a broad variety of goods and services worldwide.</string>
+    <string name="skype">Skype is a software application that allows users to make voice calls over the Internet. Calls to other users of the service and, in some countries, to free-of-charge numbers, are free, while calls to other landlines and mobile phones can be made for a fee. Additional features include instant messaging, file transfer and video conferencing.</string>
+    <string name="you_tube">YouTube is a video sharing website on which users can upload and share videos. Three former PayPal employees created YouTube in February 2005. In November 2006, YouTube, LLC was bought by Google Inc. for $1.65 billion, and is now operated as a subsidiary of Google.</string>
+</resources>

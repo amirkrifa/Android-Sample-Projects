@@ -1,0 +1,233 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<string name="make_photo">Hacer foto</string>
+    
+<string name="menu_take_photo_item">Hacer una foto</string>
+<string name="help_message">Haz una foto usando la tecla menu</string>
+<string name="take_photo_help">Toca la pantalla para enfocar y hacer una foto</string>
+<string name="color_picker_photo_help">Toca la pantalla para seleccionar un color</string>
+<string name="camera_error">No se puede acceder a la cámara</string>
+
+<string name="menu_take_photo_exit">Salir</string>
+<string name="result_color_name">Nombre del color</string>
+<string name="menu_take_photo_about">Ayuda</string>
+
+<string name="about_text">Esta aplicación permite ver el color de un elemento de una foto.\n\nLa aplicación detecta y muestra el código RAL, el nombre del color, el código RGB y el código hexadecimal.\n\nandroid@nauj27.com</string>
+
+<string-array name="color_names">
+<item>Beige verdoso</item>
+<item>Beige</item>
+<item>Amarillo arena</item>
+<item>Amarillo señales</item>
+<item>Amarillo oro</item>
+<item>Amarillo miel</item>
+<item>Amarillo maiz</item>
+<item>Amarillo narciso</item>
+<item>Beige pardo</item>
+<item>Amarillo limón</item>
+<item>Blanco perla</item>
+<item>Marfil</item>
+<item>Marfil claro</item>
+<item>Amarillo azufre</item>
+<item>Amarillo azafrán</item>
+<item>Amarillo de zinc</item>
+<item>Beige agrisado</item>
+<item>Amarillo oliva</item>
+<item>Amarillo colza</item>
+<item>Amarillo tráfico</item>
+<item>Amarillo ocre</item>
+<item>Amarillo brillante</item>
+<item>Amarillo curry</item>
+<item>Amarillo melón</item>
+<item>Amarillo retama</item>
+<item>Amarillo dalia</item>
+<item>Amarillo pastel</item>
+<item>Beige perlado</item>
+<item>Oro perlado</item>
+<item>Amarillo sol</item>
+<item>Amarillo naranja</item>
+<item>Rojo anaranjado</item>
+<item>Naranja sanguineo</item>
+<item>Naranja pálido</item>
+<item>Naranja puro</item>
+<item>Naranja brillante</item>
+<item>Naranja claro brillante</item>
+<item>Rojo claro anaranjado</item>
+<item>Naranja tráfico</item>
+<item>Naranja señales</item>
+<item>Naranja intenso</item>
+<item>Naranja salmón</item>
+<item>Naranja perlado</item>
+<item>Rojo vivo</item>
+<item>Rojo señales</item>
+<item>Rojo carmin</item>
+<item>Rojo rubí</item>
+<item>Rojo purpura</item>
+<item>Rojo vino</item>
+<item>Rojo negruzco</item>
+<item>Rojo óxido</item>
+<item>Rojo pardo</item>
+<item>Rojo beige</item>
+<item>Rojo tomate</item>
+<item>Rojo viejo</item>
+<item>Rosa claro</item>
+<item>Rojo coral</item>
+<item>Rosa</item>
+<item>Rojo fresa</item>
+<item>Rojo tráfico</item>
+<item>Rojo salmón</item>
+<item>Rojo brillante</item>
+<item>Rojo claro brillante</item>
+<item>Rojo frambuesa</item>
+<item>Rojo puro</item>
+<item>Rojo oriente</item>
+<item>Rojo rubí perlado</item>
+<item>Rosa perlado</item>
+<item>Rojo lila</item>
+<item>Rojo violeta</item>
+<item>Violeta érica</item>
+<item>Burdeos</item>
+<item>Lila azulado</item>
+<item>Púrpurá tráfico</item>
+<item>Violeta púrpura</item>
+<item>Violeta señales</item>
+<item>Violeta pastel</item>
+<item>Magenta tele</item>
+<item>Violeta perlado</item>
+<item>Morado perlado</item>
+<item>Azul violeta</item>
+<item>Azul verdoso</item>
+<item>Azul ultramar</item>
+<item>Azul zafiro</item>
+<item>Azul negruzco</item>
+<item>Azul señales</item>
+<item>Azul brillante</item>
+<item>Azul grisáceo</item>
+<item>Azul azur</item>
+<item>Azul genciana</item>
+<item>Azul acero</item>
+<item>Azul luminoso</item>
+<item>Azul cobalto</item>
+<item>Azul olombino</item>
+<item>Azul celeste</item>
+<item>Azul tráfico</item>
+<item>Azul turquesa</item>
+<item>Azul capri</item>
+<item>Azul oceano</item>
+<item>Azul agua</item>
+<item>Azul noche</item>
+<item>Azul lejanía</item>
+<item>Azul pastel</item>
+<item>Gencian perlado</item>
+<item>Azul noche perlado</item>
+<item>Verde patina</item>
+<item>Verde esmeralda</item>
+<item>Verde hoja</item>
+<item>Verde oliva</item>
+<item>Verde azulado</item>
+<item>Verde musgo</item>
+<item>Oliva grisáceo</item>
+<item>Verde botella</item>
+<item>Verde parduzco</item>
+<item>Verde abeto</item>
+<item>Verde hierba</item>
+<item>Verde reseda</item>
+<item>Verde negruzco</item>
+<item>Verde caña</item>
+<item>Amarillo oliva</item>
+<item>Oliva negruzco</item>
+<item>Verde turquesa</item>
+<item>Verde mayo</item>
+<item>Verde amarillento</item>
+<item>Verde lanquecino</item>
+<item>Verde cromo</item>
+<item>Verde pálido</item>
+<item>Oliva parduzco</item>
+<item>Verde tráfico</item>
+<item>Verde helecho</item>
+<item>Verde opalo</item>
+<item>Verde luminoso</item>
+<item>Verde pino</item>
+<item>Verde menta</item>
+<item>Verde señales</item>
+<item>Turquesa menta</item>
+<item>Turquesa pastel</item>
+<item>Verde perlado</item>
+<item>Verde ópalo perlado</item>
+<item>Verde puro</item>
+<item>Verde brillante</item>
+<item>Gris ardilla</item>
+<item>Gris plata</item>
+<item>Gris oliva</item>
+<item>Gris musgo</item>
+<item>Gris señales</item>
+<item>Gris ratón</item>
+<item>Gris beige</item>
+<item>Gris caqui</item>
+<item>Gris verdoso</item>
+<item>Gris lona</item>
+<item>Gris hierro</item>
+<item>Gris basalto</item>
+<item>Gris parduzco</item>
+<item>Gris pizarra</item>
+<item>Gris antracita</item>
+<item>Gris negruzco</item>
+<item>Gris sombra</item>
+<item>Gris hormigón</item>
+<item>Gris grafita</item>
+<item>Gris granito</item>
+<item>Gris piedra</item>
+<item>Gris azulado</item>
+<item>Gris guijarro</item>
+<item>Gris cemento</item>
+<item>Gris amarillento</item>
+<item>Gris luminoso</item>
+<item>Gris platino</item>
+<item>Gris polvo</item>
+<item>Gris ágata</item>
+<item>Gris cuarzo</item>
+<item>Gris ventana</item>
+<item>Gris tráfico A</item>
+<item>Gris tráfico B</item>
+<item>Gris seda</item>
+<item>Gris tele 1</item>
+<item>Gris tele 2</item>
+<item>Gris tele 4</item>
+<item>Gris musgo perlado</item>
+<item>Pardo verdoso</item>
+<item>Pardo ocre</item>
+<item>Marrón señales</item>
+<item>Pardo arcilla</item>
+<item>Pardo cobre</item>
+<item>Pardo corzo</item>
+<item>Pardo oliva</item>
+<item>Pardo nuez</item>
+<item>Pardo rojo</item>
+<item>Sepia</item>
+<item>Castaño</item>
+<item>Caoba</item>
+<item>Chocolate</item>
+<item>Pardo grisáceo</item>
+<item>Pardo negruzco</item>
+<item>Pardo anaranjado</item>
+<item>Pardo beige</item>
+<item>Pardo pálido</item>
+<item>Marrón tierra</item>
+<item>Cobre perlado</item>
+<item>Blanco crema</item>
+<item>Blanco grisáceo</item>
+<item>Blanco señales</item>
+<item>Negro señales</item>
+<item>Negro intenso</item>
+<item>Aluminio blanco</item>
+<item>Aluminio gris</item>
+<item>Blanco puro</item>
+<item>Negro grafito</item>
+<item>Blanco tráfico</item>
+<item>Negro tráfico</item>
+<item>Blanco papiro</item>
+<item>Gris claro perlado</item>
+<item>Gris oscuro perlado</item>
+</string-array>
+
+</resources>

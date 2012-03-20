@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest package="app.tabsample" android:versionCode="1"
+	android:versionName="1.0" xmlns:android="http://schemas.android.com/apk/res/android">
+	
+	<application android:icon="@drawable/icon" android:label="@string/app_name"
+		android:theme="@android:style/Theme.Light.NoTitleBar.Fullscreen"
+		android:layout_width="fill_parent" android:layout_height="fill_parent">
+	
+		<activity android:name=".TabSample" android:label="@string/app_name"
+		android:layout_width="fill_parent" android:layout_height="fill_parent">
+			<intent-filter>
+				<action android:name="android.intent.action.MAIN" />
+				<category android:name="android.intent.category.LAUNCHER" />
+			</intent-filter>
+		</activity>
+
+		<activity android:name="SelectActivity"
+			android:layout_width="fill_parent" android:layout_height="fill_parent">
+		</activity>
+		
+		<activity android:name="ArrowsActivity"
+			android:layout_width="fill_parent" android:layout_height="fill_parent">
+		</activity>
+		
+		<activity android:name="EditActivity"
+			android:layout_width="fill_parent" android:layout_height="fill_parent">
+		</activity>
+		
+		<activity android:name="OptionsActivity"
+			android:layout_width="fill_parent" android:layout_height="fill_parent">
+		</activity>
+		<activity android:name="TabGroup1Activity"></activity>
+		<activity android:name="TabGroup2Activity"></activity>
+	</application>
+	
+</manifest> 

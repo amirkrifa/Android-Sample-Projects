@@ -1,0 +1,9 @@
+syntax: glob
+*.class
+*.apk
+*.dex
+*.ap_
+
+# Fichero que crea el Finder de Mac OS X
+.DS_Store
+glob:R.java

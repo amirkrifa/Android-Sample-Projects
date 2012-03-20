@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+	android:orientation="vertical" android:layout_width="fill_parent"
+	android:layout_height="fill_parent"
+	android:background="#eaf9f9">
+	<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+		android:orientation="horizontal" android:layout_width="fill_parent"
+		android:layout_height="wrap_content"
+		android:background="#eaf9f9">
+		<ImageButton android:id="@+id/imagebutton" android:src="@drawable/mainimg"
+			android:layout_width="fill_parent" android:layout_height="wrap_content" />
+	</LinearLayout>
+
+	<Button android:id="@+id/switchToMapView" android:text="@string/switch_to_map_view"
+		android:layout_width="fill_parent" android:layout_height="wrap_content"
+		android:layout_gravity="center_horizontal" android:background="@color/custombutton"
+		android:textSize="25px" />
+
+	<ListView android:id="@+id/mainListView" android:layout_width="fill_parent"
+		android:layout_height="fill_parent" android:visibility="visible" 
+		android:background="#eaf9f9"
+		android:cacheColorHint="#00000000"/>
+</LinearLayout>

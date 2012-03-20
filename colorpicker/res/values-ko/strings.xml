@@ -1,0 +1,233 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<string name="make_photo">Take picture</string>
+    
+<string name="app_name">Color Picker</string>
+<string name="menu_take_photo_item">사진 촬영</string>
+<string name="help_message">메뉴키를 눌러 사진 촬영</string>
+<string name="take_photo_help">포커스 터치 후 사진 촬영</string>
+<string name="color_picker_photo_help">색상을 얻으려는 화면 터치</string>
+<string name="camera_error">카메라에 액세스할 수 없습니다</string>
+
+<string name="menu_take_photo_exit">종료</string>
+<string name="result_color_name">색상 이름</string>
+<string name="menu_take_photo_about">도움말</string>
+
+<string name="about_text">이 App은 사진의 한 점의 색상값을 얻을 수 있습니다.\n\nApp이 RAL코드를 인식하고 색상값, RGB값, 십진코드값을 보여줍니다.\n\nandroid@nauj27.com\n\nKorean thanks to Ubinuri.</string>
+
+<string-array name="color_names">
+<item>Green beige</item>
+<item>Beige</item>
+<item>Sand yellow</item>
+<item>Signal yellow</item>
+<item>Golden yellow</item>
+<item>Honey yellow</item>
+<item>Maize yellow</item>
+<item>Daffodil yellow</item>
+<item>Brown beige</item>
+<item>Lemon yellow</item>
+<item>Oyster white</item>
+<item>Ivory</item>
+<item>Light ivory</item>
+<item>Sulfur yellow</item>
+<item>Saffron yellow</item>
+<item>Zinc yellow</item>
+<item>Grey beige</item>
+<item>Olive yellow</item>
+<item>Rape yellow</item>
+<item>Traffic yellow</item>
+<item>Ochre yellow</item>
+<item>Luminous yellow</item>
+<item>Curry</item>
+<item>Melon yellow</item>
+<item>Broom yellow</item>
+<item>Dahlia yellow</item>
+<item>Pastel yellow</item>
+<item>Pearl beige</item>
+<item>Pearl gold</item>
+<item>Sun yellow</item>
+<item>Yellow orange</item>
+<item>Red orange</item>
+<item>Vermilion</item>
+<item>Pastel orange</item>
+<item>Pure orange</item>
+<item>Luminous orange</item>
+<item>Luminous bright orange</item>
+<item>Bright red orange</item>
+<item>Traffic orange</item>
+<item>Signal orange</item>
+<item>Deep orange</item>
+<item>Salmon range</item>
+<item>Pearl orange</item>
+<item>Flame red</item>
+<item>Signal red</item>
+<item>Carmine red</item>
+<item>Ruby red</item>
+<item>Purple red</item>
+<item>Wine red</item>
+<item>Black red</item>
+<item>Oxide red</item>
+<item>Brown red</item>
+<item>Beige red</item>
+<item>Tomato red</item>
+<item>Antique pink</item>
+<item>Light pink</item>
+<item>Coral red</item>
+<item>Rose</item>
+<item>Strawberry red</item>
+<item>Traffic red</item>
+<item>Salmon pink</item>
+<item>Luminous red</item>
+<item>Luminous bright red</item>
+<item>Raspberry red</item>
+<item>Pure  red</item>
+<item>Orient red</item>
+<item>Pearl ruby red</item>
+<item>Pearl pink</item>
+<item>Red lilac</item>
+<item>Red violet</item>
+<item>Heather violet</item>
+<item>Claret violet</item>
+<item>Blue lilac</item>
+<item>Traffic purple</item>
+<item>Purple violet</item>
+<item>Signal violet</item>
+<item>Pastel violet</item>
+<item>Telemagenta</item>
+<item>Pearl violet</item>
+<item>Pearl black berry</item>
+<item>Violet blue</item>
+<item>Green blue</item>
+<item>Ultramarine blue</item>
+<item>Saphire blue</item>
+<item>Black blue</item>
+<item>Signal blue</item>
+<item>Brillant blue</item>
+<item>Grey blue</item>
+<item>Azure blue</item>
+<item>Gentian blue</item>
+<item>Steel blue</item>
+<item>Light blue</item>
+<item>Cobalt blue</item>
+<item>Pigeon blue</item>
+<item>Sky blue</item>
+<item>Traffic blue</item>
+<item>Turquoise blue</item>
+<item>Capri blue</item>
+<item>Ocean blue</item>
+<item>Water blue</item>
+<item>Night blue</item>
+<item>Distant blue</item>
+<item>Pastel blue</item>
+<item>Pearl gentian blue</item>
+<item>Pearl night blue</item>
+<item>Patina green</item>
+<item>Emerald green</item>
+<item>Leaf green</item>
+<item>Olive green</item>
+<item>Blue green</item>
+<item>Moss green</item>
+<item>Grey olive</item>
+<item>Bottle green</item>
+<item>Brown green</item>
+<item>Fir green</item>
+<item>Grass green</item>
+<item>Reseda green</item>
+<item>Black green</item>
+<item>Reed green</item>
+<item>Yellow olive</item>
+<item>Black olive</item>
+<item>Turquoise green</item>
+<item>May green</item>
+<item>Yellow green</item>
+<item>Pastel green</item>
+<item>Chrome green</item>
+<item>Pale green</item>
+<item>Olive drab</item>
+<item>Traffic green</item>
+<item>Fern green</item>
+<item>Opal green</item>
+<item>Light green</item>
+<item>Pine green</item>
+<item>Mint green</item>
+<item>Signal green</item>
+<item>Mint turquoise</item>
+<item>Pastel turquoise</item>
+<item>Pearl green</item>
+<item>Pearl opal green</item>
+<item>Pure green</item>
+<item>Luminous green</item>
+<item>Squirrel grey</item>
+<item>Silver grey</item>
+<item>Olive grey</item>
+<item>Moss grey</item>
+<item>Signal grey</item>
+<item>Mouse grey</item>
+<item>Beige grey</item>
+<item>Khaki grey</item>
+<item>Green grey</item>
+<item>Tarpaulin grey</item>
+<item>Iron grey</item>
+<item>Basalt grey</item>
+<item>Brown grey</item>
+<item>Slate grey</item>
+<item>Anthracite grey</item>
+<item>Black grey</item>
+<item>Umbra grey</item>
+<item>Concrete grey</item>
+<item>Graphite grey</item>
+<item>Granite grey</item>
+<item>Stone grey</item>
+<item>Blue grey</item>
+<item>Pebble grey</item>
+<item>Cement grey</item>
+<item>Yellow grey</item>
+<item>Light grey</item>
+<item>Platinum grey</item>
+<item>Dusty grey</item>
+<item>Agate grey</item>
+<item>Quartz grey</item>
+<item>Window grey</item>
+<item>Traffic grey A</item>
+<item>Traffic grey B</item>
+<item>Silk grey</item>
+<item>Telegrey 1</item>
+<item>Telegrey 2</item>
+<item>Telegrey 4</item>
+<item>Pearl mouse grey</item>
+<item>Green brown</item>
+<item>Ochre brown</item>
+<item>Signal brown</item>
+<item>Clay brown</item>
+<item>Copper brown</item>
+<item>Fawn brown</item>
+<item>Olive brown</item>
+<item>Nut brown</item>
+<item>Red brown</item>
+<item>Sepia brown</item>
+<item>Chestnut brown</item>
+<item>Mahogany brown</item>
+<item>Chocolate brown</item>
+<item>Grey brown</item>
+<item>Black brown</item>
+<item>Orange brown</item>
+<item>Beige brown</item>
+<item>Pale brown</item>
+<item>Terra brown</item>
+<item>Pearl copper</item>
+<item>Cream</item>
+<item>Grey white</item>
+<item>Signal white</item>
+<item>Signal black</item>
+<item>Jet black</item>
+<item>White aluminium</item>
+<item>Grey aluminium</item>
+<item>Pure white</item>
+<item>Graphite black</item>
+<item>Traffic white</item>
+<item>Traffic black</item>
+<item>Papyrus white</item>
+<item>Pearl light grey</item>
+</string-array>
+
+</resources>

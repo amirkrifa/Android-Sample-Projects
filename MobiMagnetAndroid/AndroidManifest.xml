@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+	package="com.mobimagnet" android:versionCode="1" android:versionName="1.0">
+	<application android:icon="@drawable/icon" android:label="@string/app_name"
+		android:debuggable="true">
+		<uses-library android:name="com.google.android.maps" />
+		<!-- Application main activity -->
+		<activity android:name=".MobiMagnet" android:label="@string/app_name">
+			<intent-filter>
+				<action android:name="android.intent.action.MAIN" />
+				<category android:name="android.intent.category.LAUNCHER" />
+			</intent-filter>
+		</activity>
+
+		<!-- Contents list view activity -->
+		<activity android:name=".Contents" android:label="@string/main_list">
+		</activity>
+
+		<!-- Shows the details related to a specific content -->
+
+		<activity android:name=".ContentDetails" android:label="@string/content_details">
+		</activity>
+
+		<!-- Map view used to show user current location and to select a location for events lookup -->
+
+		<activity android:name=".SelectLocation" android:label="@string/select_location">
+		</activity>
+		<activity android:name=".ContentsMap" android:label="@string/contents_map">
+		</activity>
+
+		<activity android:name=".Categories" android:label="@string/categories">
+		</activity>
+		
+		<activity android:name=".MobiMagnetHome" android:label="@string/categories">
+		</activity>
+
+		
+
+	</application>
+	<uses-sdk android:minSdkVersion="8" />
+	<uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+	<uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
+	<uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />	
+	<uses-permission android:name="android.permission.INTERNET" />
+
+</manifest> 

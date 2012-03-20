@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+	android:orientation="vertical" android:layout_width="fill_parent"
+	android:layout_height="fill_parent"
+	android:background="#eaf9f9">
+
+	<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+		android:orientation="horizontal" android:layout_width="fill_parent"
+		android:layout_height="wrap_content">
+
+		<ImageButton android:id="@+id/imagebutton" android:src="@drawable/mainimg"
+			android:layout_width="fill_parent" android:layout_height="wrap_content" />
+
+	</LinearLayout>
+	
+	<TextView android:id="@+id/todayContentsText" android:text="@string/today_contents_text"
+		android:layout_width="wrap_content" android:layout_height="wrap_content"
+		android:layout_gravity="center_horizontal" android:paddingTop="20dip"
+		android:paddingBottom="20dip" 
+		android:textColor="#000000"/>
+
+
+	<Gallery xmlns:android="http://schemas.android.com/apk/res/android"
+		android:id="@+id/todayEventsGallery" android:layout_width="fill_parent"
+		android:layout_height="wrap_content" />
+
+	<Button android:id="@+id/moreContentsButton" 
+		android:text="@string/more_contents_button"
+		android:layout_width="fill_parent" 
+		android:layout_height="wrap_content"
+		android:layout_gravity="center_horizontal"
+		android:background="@color/custombutton" 
+		android:textSize="25px"
+		
+		/>
+
+
+</LinearLayout>

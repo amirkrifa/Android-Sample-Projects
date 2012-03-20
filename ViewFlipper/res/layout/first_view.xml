@@ -1,0 +1,17 @@
+<LinearLayout android:id="@+id/LinearLayout01"
+	android:layout_width="fill_parent" android:layout_height="fill_parent"
+	xmlns:android="http://schemas.android.com/apk/res/android"
+	android:orientation="vertical">
+	<TextView android:text="This is the first view" android:id="@+id/TextView01"
+		android:layout_height="wrap_content" android:layout_width="wrap_content"
+		android:layout_gravity="center_horizontal">
+	</TextView>
+	<Button android:text="Click for Second view " android:id="@+id/Button01"
+		android:layout_width="wrap_content" android:layout_height="wrap_content"
+		android:layout_gravity="center_horizontal">
+	</Button>
+	<AnalogClock android:id="@+id/AnalogClock01"
+		android:layout_width="wrap_content" android:layout_height="wrap_content"
+		android:layout_gravity="center_vertical|center_horizontal">
+	</AnalogClock>
+</LinearLayout>

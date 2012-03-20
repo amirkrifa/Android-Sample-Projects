@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+android:orientation="vertical"
+android:layout_width="fill_parent"
+android:layout_height="fill_parent"
+>
+
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+android:orientation="horizontal"
+android:layout_width="fill_parent"
+android:layout_height="wrap_content"
+>
+
+<CheckBox android:id="@+id/checkboxSat"
+            android:layout_width="wrap_content" 
+            android:layout_height="wrap_content"
+            android:checked="false"
+            android:text="Sattelite View">
+</CheckBox>
+<CheckBox android:id="@+id/checkboxStreet"
+            android:layout_width="wrap_content" 
+            android:layout_height="wrap_content"
+            android:checked="false"
+            android:text="Street View">
+</CheckBox>
+            
+</LinearLayout>
+
+<com.google.android.maps.MapView
+        android:id="@+id/mapView"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:clickable="true"
+        android:apiKey="0Ix8F-fI6XehnIpQ_i8yA-ic6HJxcKmzYPjwp1A"
+/>
+
+</LinearLayout>
